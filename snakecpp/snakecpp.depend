@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1712955453 source:c:\users\andro\desktop\snakecpp\main.cpp
+	<iostream>
+	"console.h"
+	<cstdlib>
+	<unistd.h>
+	<conio.h>
+	<thread>
+	<fstream>
+	<string>
+
+1712952099 c:\users\andro\desktop\snakecpp\console.h
+	<windows.h>
+	<random>
+
